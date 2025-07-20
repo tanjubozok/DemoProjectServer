@@ -24,7 +24,6 @@ public static class ServiceRegistrar
         .WithScopedLifetime()
         );
 
-
         return services;
     }
 }
