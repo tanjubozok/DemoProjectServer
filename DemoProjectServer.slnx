@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DemoProjectServer.Application/DemoProjectServer.Application.csproj" Id="3883826d-8209-4d21-b240-139c03d851a3" />
+    <Project Path="src/DemoProjectServer.Domain/DemoProjectServer.Domain.csproj" Id="2d958009-685d-4095-9657-a3e4c2fd5573" />
+  </Folder>
+  <Folder Name="/test/" />
+</Solution>
